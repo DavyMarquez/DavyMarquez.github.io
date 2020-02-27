@@ -23,6 +23,15 @@ It is a cheap copy of the videogame developed by indie company Sorath, [Devil Da
 
 [Here](https://github.com/ferdelmo/videojuego) is the repository where all the source code is stored.
 
+## Non-real Time Renderer
+
+This is a little non-real time renderer implemeted while at University using both path-tracing and photon-mapping techniques. Apart from implementing different geometries and materials, it also implement participating isotropic media.
+
+[Here](https://github.com/victorciko2/graphic) is the repository where all the source code is stored.
+
+
+
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
