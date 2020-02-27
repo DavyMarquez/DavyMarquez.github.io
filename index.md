@@ -27,47 +27,17 @@ It is a cheap copy of the videogame developed by indie company Sorath, [Devil Da
 
 This is a little non-real time renderer implemeted while at University using both path-tracing and photon-mapping techniques. Apart from implementing different geometries and materials, it also implements participating isotropic media. I really enjoyed this project and it helped me a lot in the understanding of 3D mathematics and physically-based image rendering. 
 
-Here are some renders using this project.
-
-
+Here are some renders using this project
+<div>
+  <img src="/images/100000_100_50.png" width="30%">
+  <img src="/images/22_sinCausticas_512.jpg" width=30%">
+  <img src="/images/24_ParaleleEspecular.jpeg" width=30%">
+</div>
+<div>
+<img src="/images/60_niebla21_500.jpg" width=30%">
+<img src="/images/6_esferaReflective.jpg" width=30%">
+<img src="/images/reflective_5000.jpg" width=30%">
+ </div>
 
 [Here](https://github.com/victorciko2/graphic) is the repository where all the source code is stored.
 
-
-
-
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavyMarquez/DavyMarquez.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
