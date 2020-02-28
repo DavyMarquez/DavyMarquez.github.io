@@ -40,7 +40,7 @@ This is a little non-real time renderer implemeted while at University using bot
 
 Here are some renders using this project
 
-<div align="center>
+<div align="center">
   <img src="/images/100000_100_50.png" width="30%"/>
   <img src="/images/22_sinCausticas_512.jpg" width=30%"/>
   <img src="/images/24_ParaleleEspecular.jpeg" width=30%"/>
