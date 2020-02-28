@@ -64,10 +64,8 @@ It is a cheap copy of the videogame developed by indie company Sorath, [Devil Da
 Here I upload two captures of both de 2D and 3D version of the game.
 
 <div align="center">
-   <img src="/images/2d.png" width="60%"/>
-</div>
-<div align="center">
-   <img src="/images/3d.png" width="60%">
+   <img src="/images/2d.png" width="45%"/>
+  <img src="/images/3d.png" width="45%">
 </div>
 
 [Here](https://github.com/ferdelmo/videojuego) is the repository where all the source code is stored.
