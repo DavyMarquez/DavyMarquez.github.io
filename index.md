@@ -1,4 +1,13 @@
-# **Projects**
+# **CONTACT**
+
+**Email**: davidmarquezcalavia@gmail.com
+
+**Phone**: +34 660 354 385
+
+**LinkedIn**: https://www.linkedin.com/in/david-márquez-calavia-a52b96170/
+
+
+# **PROJECTS**
 
 ## Nehan
 
