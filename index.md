@@ -9,7 +9,7 @@ The team is formed by more than fifteen people from different roles such as mark
 
 ## Repair URSS
 
-This is a 2D ironic top-down action videogame that some friends and I develop on the Global Game Jam 2019 in just two days using Unity. The code word for the Jam was "repair" and we came up with this fun twist for that concept. 
+This is a 2D top-down action videogame that some friends and I develop on the Global Game Jam 2019 in just two days using Unity. The code word for the Jam was "repair" and we came up with this fun twist for that concept. 
 
 In this project my main focus was the gameplay, where I spent most of the duration of the Jam. In my opinion, the most interesting things about game is that, even though the size of the map is fixed, the layout of the different assets was generated randomly while loading the level using a custom algorithm for that. Provided the limited time, the game ended up pretty fun but unpolished, as it was expected. 
 
