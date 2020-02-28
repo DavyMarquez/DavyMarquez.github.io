@@ -16,8 +16,8 @@ In this project my main focus was the gameplay, where I spent most of the durati
 The game can be played [here](https://davymarquez.itch.io/repairurrs) and the repository with the source code can be found [here](https://github.com/ferdelmo/RepairURSS).
 
 <div align="center">
-  <img src="https://davymarquez.github.io/images/33e6fac0eb2dcc61676dcd38636d6020.jpg" width=45%"/>
-  <img src="https://davymarquez.github.io/images/f36fac29a63e212f1bb427d50739a3cd.jpg" width=45%"/>
+  <img src="https://davymarquez.github.io/images/33e6fac0eb2dcc61676dcd38636d6020.jpg" width="45%"/>
+  <img src="https://davymarquez.github.io/images/f36fac29a63e212f1bb427d50739a3cd.jpg" width="45%"/>
 </div>
 
 ## Efficient Sampling of Elliptical Lights
@@ -27,11 +27,11 @@ This is my University final project, where I used the physically based [Mitsuba 
 Here are some renders using my algorithm.
 
 <div align="center">
-  <img src="https://davymarquez.github.io/images/Untitled.png" width=45%"/>
-  <img src="https://davymarquez.github.io/images/Untitled2.png" width=45%">
+  <img src="https://davymarquez.github.io/images/Untitled.png" width="45%"/>
+  <img src="https://davymarquez.github.io/images/Untitled2.png" width="45%">
 </div>
 <div align="center">
-  <img src="https://davymarquez.github.io/images/dragon.png" width=90%"/>
+  <img src="https://davymarquez.github.io/images/dragon.png" width="90%"/>
 </div>
                                           
 ## Non-real Time Renderer
@@ -42,14 +42,14 @@ Here are some renders using this project
 
 <div align="center">
   <img src="https://davymarquez.github.io/images/100000_100_50.png" width="30%"/>
-  <img src="https://davymarquez.github.io/images/22_sinCausticas_512.jpg" width=30%"/>
-  <img src="https://davymarquez.github.io/images/24_ParaleleEspecular.jpeg" width=30%"/>
+  <img src="https://davymarquez.github.io/images/22_sinCausticas_512.jpg" width="30%"/>
+  <img src="https://davymarquez.github.io/images/24_ParaleleEspecular.jpeg" width="30%"/>
 </div>
 
 <div align="center">
-<img src="https://davymarquez.github.io/images/60_niebla21_500.jpg" width=30%"/>
-<img src="https://davymarquez.github.io/images/6_esferaReflective.jpg" width=30%"/>
-<img src="https://davymarquez.github.io/images/reflective_5000.jpg" width=30%"/>
+<img src="https://davymarquez.github.io/images/60_niebla21_500.jpg" width="30%"/>
+<img src="https://davymarquez.github.io/images/6_esferaReflective.jpg" width="30%"/>
+<img src="https://davymarquez.github.io/images/reflective_5000.jpg" width="30%"/>
  </div>
 
 [Here](https://github.com/victorciko2/graphic) is the repository where all the source code is stored.
