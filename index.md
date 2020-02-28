@@ -15,13 +15,17 @@ In this project my main focus was the gameplay, where I spent most of the durati
 
 The game can be played here (PON UN PUTO LINK HIJODE PUTA)
 
-## Devil Daggers
+## Efficient Sampling of Elliptical Lights
 
-This is a project that two colleagues and I had to develop for a subject while at University. It is also the first videogame I ever took part in. It was developed using OpenGL and C++.
+This is my University final project, where I used the physically based [Mitsuba Renderer](https://www.mitsuba-renderer.org/) to implement an algorithm to efficiently sample the subtended solid angle of a elliptical light, allowing lower variance in the final result than previous work. In this project I had the chance to do my final University project within the [Graphics and Imaging Lab](https://graphics.unizar.es/) research group, surrounded by some of the best researchers in the area. It was a great experience and aroused my curiosity around Computer Graphics research.
 
-It is a cheap copy of the videogame developed by indie company Sorath, [Devil Daggers](https://devildaggers.com/). The game we developed had the alternative of either a 2D top-down shooter version or a 3D FPS version (just like the original game). I worked mainly on the gameplay and AI part of the game, while also using briefly the computer graphics API OpenGL. 
+Here are some renders using my algorithm.
 
-[Here](https://github.com/ferdelmo/videojuego) is the repository where all the source code is stored.
+<div>
+  <img src="/images/Untitled.png" width=45%">
+  <img src="/images/Untitled2.png" width=45%">
+</div>
+<img src="/images/dragon.png" width=92%">
 
 ## Non-real Time Renderer
 
@@ -41,3 +45,11 @@ Here are some renders using this project
 
 [Here](https://github.com/victorciko2/graphic) is the repository where all the source code is stored.
 
+
+## Devil Daggers
+
+This is a project that two colleagues and I had to develop for a subject while at University. It is also the first videogame I ever took part in. It was developed using OpenGL and C++.
+
+It is a cheap copy of the videogame developed by indie company Sorath, [Devil Daggers](https://devildaggers.com/). The game we developed had the alternative of either a 2D top-down shooter version or a 3D FPS version (just like the original game). I worked mainly on the gameplay and AI part of the game, while also using briefly the computer graphics API OpenGL. 
+
+[Here](https://github.com/ferdelmo/videojuego) is the repository where all the source code is stored.
