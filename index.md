@@ -61,4 +61,13 @@ This is a project that two colleagues and I had to develop for a subject while a
 
 It is a cheap copy of the videogame developed by indie company Sorath, [Devil Daggers](https://devildaggers.com/). The game we developed had the alternative of either a 2D top-down shooter version or a 3D FPS version (just like the original game). I worked mainly on the gameplay and AI part of the game, while also using briefly the computer graphics API OpenGL. 
 
+Here I upload two captures of both de 2D and 3D version of the game.
+
+<div align="center>
+   <img src="/images/2d.png" width="60%"/>
+</div>
+<div align="center>
+   <img src="/images/3d.png" width="60%">
+</div>
+
 [Here](https://github.com/ferdelmo/videojuego) is the repository where all the source code is stored.
