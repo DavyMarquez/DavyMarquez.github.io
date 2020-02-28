@@ -9,11 +9,16 @@ The team is formed by more than fifteen people from different roles such as mark
 
 ## Repair URSS
 
-This is a 2D top-down action videogame that some friends and I develop on the Global Game Jam 2019 in just two days using Unity. 
+This is a 2D ironic top-down action videogame that some friends and I develop on the Global Game Jam 2019 in just two days using Unity. The code word for the Jam was "repair" and we came up with this fun twist for that concept. 
 
 In this project my main focus was the gameplay, where I spent most of the duration of the Jam. In my opinion, the most interesting things about game is that, even though the size of the map is fixed, the layout of the different assets was generated randomly while loading the level using a custom algorithm for that. Provided the limited time, the game ended up pretty fun but unpolished, as it was expected. 
 
-The game can be played here (PON UN PUTO LINK HIJODE PUTA)
+The game can be played [here](https://davymarquez.itch.io/repairurrs) and the repository with the source code can be found [here](https://github.com/ferdelmo/RepairURSS).
+
+<div align="center">
+  <img src="/images/33e6fac0eb2dcc61676dcd38636d6020.jpg" width=45%">
+  <img src="/images/f36fac29a63e212f1bb427d50739a3cd.jpg" width=45%">
+</div>
 
 ## Efficient Sampling of Elliptical Lights
 
@@ -21,23 +26,25 @@ This is my University final project, where I used the physically based [Mitsuba 
 
 Here are some renders using my algorithm.
 
-<div>
+<div align="center">
   <img src="/images/Untitled.png" width=45%">
   <img src="/images/Untitled2.png" width=45%">
 </div>
-<img src="/images/dragon.png" width=92%">
-
+<div align="center">
+  <img src="/images/dragon.png" width=90%">
+</div>
+                                          
 ## Non-real Time Renderer
 
 This is a little non-real time renderer implemeted while at University using both path-tracing and photon-mapping techniques. Apart from implementing different geometries and materials, it also implements participating isotropic media. I really enjoyed this project and it helped me a lot in the understanding of 3D mathematics and physically-based image rendering. 
 
 Here are some renders using this project
-<div>
+<div align="center">
   <img src="/images/100000_100_50.png" width="30%">
   <img src="/images/22_sinCausticas_512.jpg" width=30%">
   <img src="/images/24_ParaleleEspecular.jpeg" width=30%">
 </div>
-<div>
+<div align="center">
 <img src="/images/60_niebla21_500.jpg" width=30%">
 <img src="/images/6_esferaReflective.jpg" width=30%">
 <img src="/images/reflective_5000.jpg" width=30%">
