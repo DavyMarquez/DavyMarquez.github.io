@@ -15,6 +15,22 @@ This is my master's final project, which isn't finished yet. It's a platform and
 
 The team is formed by more than fifteen people from different roles such as marketing, production, art, design and programmers, being myself in this last one discipline. As a student in videogame development I'm trying to learn as much as I can about every aspect of the development, such as gameplay, AI, computer graphics, technology and user interface. The game it's being developed using Unreal Engine 4.
 
+## Devil Daggers (again)
+
+This is yet again another cheap copy of the videogame developed by indie company Sorath, [Devil Daggers](https://devildaggers.com/) using a custom engine in C++ and programming the game logic in LUA. 
+
+A teacher of the master provided us a custom engine with all the LUA integration made for us to make a 2D pong-like game in about a week. Instead of using it, a colleague and I decided to use his engine build from scratch coded with vulkan as the graphic API to develop a 3D videogame. 
+
+For this project, I worked on the physics of the little engine, implementing spheres, capsules and the collisions between those combinations in C++, because that's all we needed for the videogame.  I also developed the AI for the enemy, using steering behaviours in order to avoid checking collisions between all the enemies in the scene (enhancing the performance) and it looked very nice and natural. 
+
+It's not the most flashy or intricate videogame, but it was a very good oportunity to use a scripting language such as LUA to code all the logic and to implement a little engine in about a week.
+
+The game is not finished at all, but it can be found in one of the branches with all the source code [here](https://github.com/ferdelmo/WindmillEngine), where my colleague is still developing his engine.
+
+<div align="center">
+  <img src="https://davymarquez.github.io/images/LUA1.png" width="45%"/>
+  <img src="https://davymarquez.github.io/images/LUA2.png" width="45%"/>
+</div>
 
 ## Repair URSS
 
@@ -45,9 +61,9 @@ Here are some renders using my algorithm.
                                           
 ## Non-real Time Renderer
 
-This is a little non-real time renderer implemeted while at University using both path-tracing and photon-mapping techniques. Apart from implementing different geometries and materials, it also implements participating isotropic media. I really enjoyed this project and it helped me a lot in the understanding of 3D mathematics and physically-based image rendering. 
+This is a little non-real time renderer implemented while at University using both path-tracing and photon-mapping techniques. Apart from implementing different geometries and materials, it also implements participating isotropic media. I really enjoyed this project and it helped me a lot in the understanding of 3D mathematics and physically-based image rendering. 
 
-Here are some renders using this project
+Here are some renders using this project:
 
 <div align="center">
   <img src="/images/100000_100_50.png" width="30%"/>
