@@ -17,6 +17,11 @@ The team is formed by more than fifteen people from different roles such as mark
 
 [Here](https://www.youtube.com/watch?v=fJkE6MbPJK8) is a link to a playthrough of the game and [here](https://nehangame.itch.io/nehan) the itch.io page of the project.  
 
+<div align="center">
+  <img src="https://davymarquez.github.io/images/roboto.png" width="45%"/>
+  <img src="https://davymarquez.github.io/images/jumper.png" width="45%"/>
+</div>
+
 ## Devil Daggers (again)
 
 This is yet again another cheap copy of the videogame developed by indie company Sorath, [Devil Daggers](https://devildaggers.com/) using a custom engine in C++ and programming the game logic in LUA. 
