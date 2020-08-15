@@ -15,6 +15,8 @@ This is my master's final project, which isn't finished yet. It's a platform and
 
 The team is formed by more than fifteen people from different roles such as marketing, production, art, design and programmers, being myself in this last one discipline. As a student in videogame development I'm trying to learn as much as I can about every aspect of the development, such as gameplay, AI, computer graphics, technology and user interface. The game it's being developed using Unreal Engine 4.
 
+[Here](https://www.youtube.com/watch?v=fJkE6MbPJK8) is a link to a playthrough of the game and [here](https://nehangame.itch.io/nehan) the itch.io page of the project.  
+
 ## Devil Daggers (again)
 
 This is yet again another cheap copy of the videogame developed by indie company Sorath, [Devil Daggers](https://devildaggers.com/) using a custom engine in C++ and programming the game logic in LUA. 
