@@ -22,6 +22,19 @@ The team is formed by more than fifteen people from different roles such as mark
   <img src="https://davymarquez.github.io/images/jumper.png" width="45%"/>
 </div>
 
+## Cactus es amor
+
+This is a 2D action videogame that I made along some colleagues for the Spain Game Devs Jam II in about a week using Unity.
+
+In this project I focused on gameplay and AI features. A interesting aspect of the project is that we used steering behaviours for all the enemies. Because of that we had some perfomance problems because all the AIs where accessing the position of every other enemy on the scene within a range to calculate their trajectory. To avoid this, we made a grid that had a reference to every enemy that was over that cell, and the enemies looked for the adjacent cells and calculate its trajectory. 
+
+The game can be played [here](https://pitticli.itch.io/cactus-es-amor) and the repository with the source code can be found [here](https://github.com/DavyMarquez/CactusDoloroson).
+
+<div align="center">
+  <img src="/images/cactus1.png" width="45%"/>
+  <img src="/images/cactus2.png" width="45%">
+</div>
+
 ## Devil Daggers (again)
 
 This is yet again another cheap copy of the videogame developed by indie company Sorath, [Devil Daggers](https://devildaggers.com/) using a custom engine in C++ and programming the game logic in LUA. 
@@ -41,7 +54,7 @@ The game is not finished at all, but it can be found in one of the branches with
 
 ## Repair URSS
 
-This is a 2D top-down action videogame that some friends and I develop on the Global Game Jam 2019 in just two days using Unity. The code word for the Jam was "repair" and we came up with this fun twist for that concept. 
+This is a 2D top-down action videogame that some friends and I develop for the Global Game Jam 2019 in just two days using Unity. The code word for the Jam was "repair" and we came up with this fun twist for that concept. 
 
 In this project my main focus was the gameplay, where I spent most of the duration of the Jam. In my opinion, the most interesting things about game is that, even though the size of the map is fixed, the layout of the different assets was generated randomly while loading the level using a custom algorithm for that. Provided the limited time, the game ended up pretty fun but unpolished, as it was expected. 
 
