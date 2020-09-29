@@ -28,6 +28,8 @@ This is a 2D action videogame that I made along some colleagues for the Spain Ga
 
 In this project I focused on gameplay and AI features. A interesting aspect of the project is that we used steering behaviours for all the enemies. Because of that we had some perfomance problems because all the AIs where accessing the position of every other enemy on the scene within a range to calculate their trajectory. To avoid this, we made a grid that had a reference to every enemy that was over that cell, and the enemies looked for the adjacent cells and calculate its trajectory. 
 
+The code is a bit messy and the game is not polished as we had little time to develop it, but ended up pretty fun in my opinion.
+
 The game can be played [here](https://pitticli.itch.io/cactus-es-amor) and the repository with the source code can be found [here](https://github.com/DavyMarquez/CactusDoloroson).
 
 <div align="center">
